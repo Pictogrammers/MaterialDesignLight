@@ -9,5 +9,7 @@ about: Request an icon for the team to add
 
 Any icon request must already exist in https://github.com/Templarian/MaterialDesign
 If it does not exist create an issue there first!
+
+Note that brand icons will not be added to the MDI Light library.
 -->
 
