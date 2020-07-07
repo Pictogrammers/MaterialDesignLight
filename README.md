@@ -4,7 +4,7 @@ Material Design Icons Light is a subset of the [Material Design Icons](https://m
 
 ## Icons
 
-View at [Material Design Icons](http://materialdesignicons.com/). This repo also contains converted icons from [Google's official icon set](https://github.com/google/material-design-icons).
+View at [Material Design Icons](http://materialdesignicons.com/) (coming soon).
 
 |                         | NPM                           | Dist Repo |
 |-------------------------|-------------------------------|-----------|
