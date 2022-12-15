@@ -1,0 +1,36 @@
+{
+    "id": "98D1F946-569F-11E5-8AC4-842B2B6CFE1B",
+    "packageId": "531A9B44-1962-11E5-89CC-842B2B6CFE1B",
+    "name": "Material Design Icons Light",
+    "description": "Material Design Icons Light desktop font.",
+    "icon": null,
+    "prefix": "",
+    "fileName": "",
+    "fontName": "",
+    "fontFamily": "",
+    "fontWeight": "",
+    "website": null,
+    "npmFont": null,
+    "npmJS": null,
+    "npmSVG": null,
+    "color": {
+        "header": null,
+        "link": "",
+        "new": "",
+        "deprecated": ""
+    },
+    "style": "",
+    "price": null,
+    "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 84
+    },
+    "date": {
+        "year": 2022,
+        "month": 11,
+        "day": 15,
+        "hour": 14,
+        "minute": 36
+    }
+}

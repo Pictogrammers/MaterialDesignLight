@@ -1,0 +1,3575 @@
+[
+    {
+        "id": "90D54205-00CE-4E35-A56F-30F3A32DF8AF",
+        "baseIconId": "90D54205-00CE-4E35-A56F-30F3A32DF8AF",
+        "name": "account",
+        "codepoint": "F004",
+        "aliases": [
+            "person",
+            "user"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "70BC723D-959D-450F-A8CE-1B297453E3ED",
+        "baseIconId": "90D54205-00CE-4E35-A56F-30F3A32DF8AF",
+        "name": "account-alert",
+        "codepoint": "FCBE",
+        "aliases": [
+            "account-warning",
+            "person-alert",
+            "person-warning",
+            "user-alert",
+            "user-warning"
+        ],
+        "styles": [
+            "alert"
+        ],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [
+            "Account \/ User",
+            "Alert \/ Error"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EAE75EA6-F93D-4CAC-ABAE-BBE89D287CE0",
+        "baseIconId": "EAE75EA6-F93D-4CAC-ABAE-BBE89D287CE0",
+        "name": "alarm",
+        "codepoint": "F020",
+        "aliases": [
+            "alarm-clock"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "005E858D-8FD5-4DF4-94FB-4F8247510C0B",
+        "baseIconId": "005E858D-8FD5-4DF4-94FB-4F8247510C0B",
+        "name": "alarm-panel",
+        "codepoint": "FCC9",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
+        "id": "33C5B7F9-A181-4EAB-9D0C-503E1C09ED48",
+        "baseIconId": "33C5B7F9-A181-4EAB-9D0C-503E1C09ED48",
+        "name": "alarm-plus",
+        "codepoint": "F024",
+        "aliases": [
+            "alarm-add",
+            "alarm-clock-add",
+            "alarm-clock-plus"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "43DD3BA1-93A5-480C-83A1-290158B2FD7D",
+        "baseIconId": "43DD3BA1-93A5-480C-83A1-290158B2FD7D",
+        "name": "alert",
+        "codepoint": "F026",
+        "aliases": [
+            "warning"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "3D7977C7-4DAC-4C99-8962-558C796C90BE",
+        "baseIconId": "3D7977C7-4DAC-4C99-8962-558C796C90BE",
+        "name": "alert-circle",
+        "codepoint": "F028",
+        "aliases": [
+            "warning-circle",
+            "error"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D0A237FA-9814-4655-A214-9F51993F204B",
+        "baseIconId": "D0A237FA-9814-4655-A214-9F51993F204B",
+        "name": "alert-octagon",
+        "codepoint": "F029",
+        "aliases": [
+            "warning-octagon"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EAC8A6E4-00D2-4614-88F2-04FAA8C50CEC",
+        "baseIconId": "EAC8A6E4-00D2-4614-88F2-04FAA8C50CEC",
+        "name": "arrange-bring-forward",
+        "codepoint": "F03D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "275C2DFB-90F0-4EF9-96E5-41536430240A",
+        "baseIconId": "275C2DFB-90F0-4EF9-96E5-41536430240A",
+        "name": "arrange-bring-to-front",
+        "codepoint": "F03E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7B33BDE7-105C-4FA9-8774-01D4688516A6",
+        "baseIconId": "7B33BDE7-105C-4FA9-8774-01D4688516A6",
+        "name": "arrange-send-backward",
+        "codepoint": "F03F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EE09DB2D-020C-4A8F-9A97-13DB4517BA85",
+        "baseIconId": "EE09DB2D-020C-4A8F-9A97-13DB4517BA85",
+        "name": "arrange-send-to-back",
+        "codepoint": "F040",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "3826A9F9-D5E5-4318-BF41-87A7857E6D11",
+        "baseIconId": "3826A9F9-D5E5-4318-BF41-87A7857E6D11",
+        "name": "arrow-down",
+        "codepoint": "F045",
+        "aliases": [
+            "arrow-bottom"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DC589DBA-A525-4BE7-B5C1-3A2E33798D9A",
+        "baseIconId": "DC589DBA-A525-4BE7-B5C1-3A2E33798D9A",
+        "name": "arrow-down-circle",
+        "codepoint": "FCB7",
+        "aliases": [
+            "arrow-bottom-circle"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7A6C58C0-B388-40EC-B30B-A76EAFD1C4E7",
+        "baseIconId": "7A6C58C0-B388-40EC-B30B-A76EAFD1C4E7",
+        "name": "arrow-left",
+        "codepoint": "F04D",
+        "aliases": [
+            "arrow-back"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "57D8E406-EA8A-4EAB-8DD2-92D465EDAAB2",
+        "baseIconId": "57D8E406-EA8A-4EAB-8DD2-92D465EDAAB2",
+        "name": "arrow-left-circle",
+        "codepoint": "FCB9",
+        "aliases": [
+            "arrow-back-circle"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "599F098C-7E5B-43D9-B142-D69526B959B6",
+        "baseIconId": "599F098C-7E5B-43D9-B142-D69526B959B6",
+        "name": "arrow-right",
+        "codepoint": "F054",
+        "aliases": [
+            "arrow-forward"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5B5BFA35-D5C4-498F-9FBA-2A74FB8F012E",
+        "baseIconId": "5B5BFA35-D5C4-498F-9FBA-2A74FB8F012E",
+        "name": "arrow-right-circle",
+        "codepoint": "FCBB",
+        "aliases": [
+            "arrow-forward-circle"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "182F1944-D0FB-490A-8FD3-7642E10AE63E",
+        "baseIconId": "182F1944-D0FB-490A-8FD3-7642E10AE63E",
+        "name": "arrow-up",
+        "codepoint": "F05D",
+        "aliases": [
+            "arrow-top"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B0221034-8E56-4C92-8177-99E48394117E",
+        "baseIconId": "B0221034-8E56-4C92-8177-99E48394117E",
+        "name": "arrow-up-circle",
+        "codepoint": "FCBD",
+        "aliases": [
+            "arrow-top-circle"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9E137086-980B-4913-B7E8-214153F11C1A",
+        "baseIconId": "9E137086-980B-4913-B7E8-214153F11C1A",
+        "name": "bank",
+        "codepoint": "F070",
+        "aliases": [
+            "museum"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "3C83A42D-794C-4CD5-AF6D-E82859AF2097",
+        "baseIconId": "3C83A42D-794C-4CD5-AF6D-E82859AF2097",
+        "name": "baseball-diamond",
+        "codepoint": "FCCA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
+        "id": "14502605-56EE-4100-818E-15F8A9AD95D2",
+        "baseIconId": "14502605-56EE-4100-818E-15F8A9AD95D2",
+        "name": "bell",
+        "codepoint": "F09A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C05E04B4-4351-4E5D-A55A-52817960C86E",
+        "baseIconId": "C05E04B4-4351-4E5D-A55A-52817960C86E",
+        "name": "bell-off",
+        "codepoint": "F09B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7D94EC00-EC5B-45C5-89A7-D17E5C69754B",
+        "baseIconId": null,
+        "name": "bell-plus",
+        "codepoint": "FCBF",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "3AF912B3-2737-4B1E-9AFE-77C342E4C446",
+        "baseIconId": "3AF912B3-2737-4B1E-9AFE-77C342E4C446",
+        "name": "bluetooth",
+        "codepoint": "F0AF",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C79A85FA-868A-4334-A123-0C7E97CAAD6B",
+        "baseIconId": "C79A85FA-868A-4334-A123-0C7E97CAAD6B",
+        "name": "book",
+        "codepoint": "F0BA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B809C13A-4D90-45CD-BF91-7D99D15AC8FE",
+        "baseIconId": "B809C13A-4D90-45CD-BF91-7D99D15AC8FE",
+        "name": "book-multiple",
+        "codepoint": "F0BB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "09B23972-AC10-459D-92B5-77599C39401E",
+        "baseIconId": "09B23972-AC10-459D-92B5-77599C39401E",
+        "name": "book-plus",
+        "codepoint": "F5DB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5BF7FCDE-6867-4445-BC5C-3F3DD5DC7BDC",
+        "baseIconId": "5BF7FCDE-6867-4445-BC5C-3F3DD5DC7BDC",
+        "name": "bookmark",
+        "codepoint": "F0C0",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5661B6CF-4822-4A8D-9B45-943816E76897",
+        "baseIconId": "5661B6CF-4822-4A8D-9B45-943816E76897",
+        "name": "border-all",
+        "codepoint": "F0C7",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4B7B4544-129E-49F6-9DC9-1E4445E28CC5",
+        "baseIconId": "4B7B4544-129E-49F6-9DC9-1E4445E28CC5",
+        "name": "border-bottom",
+        "codepoint": "F0C8",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "17C36964-B3E7-46DA-8673-D4F98D6E9D11",
+        "baseIconId": "17C36964-B3E7-46DA-8673-D4F98D6E9D11",
+        "name": "border-horizontal",
+        "codepoint": "F0CA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "27C1EAB4-7690-46EF-99A4-6ABB732DECD1",
+        "baseIconId": "27C1EAB4-7690-46EF-99A4-6ABB732DECD1",
+        "name": "border-inside",
+        "codepoint": "F0CB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1B7D084C-3EB9-4013-BAE7-BF2925D4DCD5",
+        "baseIconId": "1B7D084C-3EB9-4013-BAE7-BF2925D4DCD5",
+        "name": "border-left",
+        "codepoint": "F0CC",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A601BC1B-62D1-4C39-BEF9-65B3CE220F90",
+        "baseIconId": "A601BC1B-62D1-4C39-BEF9-65B3CE220F90",
+        "name": "border-none",
+        "codepoint": "F0CD",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "12EAF8C3-65EC-4FAD-B3D2-D692C00173F7",
+        "baseIconId": "12EAF8C3-65EC-4FAD-B3D2-D692C00173F7",
+        "name": "border-outside",
+        "codepoint": "F0CE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9DD2DF3E-C38A-43F6-ABC1-BEECAC14FF3A",
+        "baseIconId": "9DD2DF3E-C38A-43F6-ABC1-BEECAC14FF3A",
+        "name": "border-right",
+        "codepoint": "F0CF",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C646E121-BA9A-4C8F-A943-EB7B6715B89E",
+        "baseIconId": "C646E121-BA9A-4C8F-A943-EB7B6715B89E",
+        "name": "border-top",
+        "codepoint": "F0D1",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "58772F79-4700-4DB3-BE94-E973F7F92BF5",
+        "baseIconId": "58772F79-4700-4DB3-BE94-E973F7F92BF5",
+        "name": "border-vertical",
+        "codepoint": "F0D2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "E490115B-EFF9-4D13-8A54-09C562F4DDCE",
+        "baseIconId": "E490115B-EFF9-4D13-8A54-09C562F4DDCE",
+        "name": "briefcase",
+        "codepoint": "F0D6",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2D69AFBE-40C4-4E6C-B921-0D0C385EC6DB",
+        "baseIconId": null,
+        "name": "bullhorn",
+        "codepoint": "FCC0",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "B381012A-6E5D-4839-9F88-9CBE97E4CCF5",
+        "baseIconId": "B381012A-6E5D-4839-9F88-9CBE97E4CCF5",
+        "name": "calendar",
+        "codepoint": "F0ED",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BDF37FFB-FA5B-4009-A70A-E9B00C756E58",
+        "baseIconId": "BDF37FFB-FA5B-4009-A70A-E9B00C756E58",
+        "name": "camcorder",
+        "codepoint": "F0FC",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B2AE5F65-0542-499F-A015-7A753EB42B21",
+        "baseIconId": "B2AE5F65-0542-499F-A015-7A753EB42B21",
+        "name": "camera",
+        "codepoint": "F100",
+        "aliases": [
+            "photography"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Photography"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "24B05AE5-AF36-4CD5-8500-B28FF2835C99",
+        "baseIconId": "24B05AE5-AF36-4CD5-8500-B28FF2835C99",
+        "name": "cancel",
+        "codepoint": "F739",
+        "aliases": [
+            "ban",
+            "prohibited"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "3B37FF66-3834-47AC-8C4E-0D317DE27254",
+        "baseIconId": "3B37FF66-3834-47AC-8C4E-0D317DE27254",
+        "name": "cart",
+        "codepoint": "F110",
+        "aliases": [
+            "trolley"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A7F390C9-C26F-42EA-AAE0-C47D61B95A5A",
+        "baseIconId": "A7F390C9-C26F-42EA-AAE0-C47D61B95A5A",
+        "name": "chart-areaspline",
+        "codepoint": "F127",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "859FBA63-332B-475F-A796-51168ED0CC22",
+        "baseIconId": "859FBA63-332B-475F-A796-51168ED0CC22",
+        "name": "chart-bar",
+        "codepoint": "F128",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AA39461E-8582-4AC8-9ED0-96DB510FF490",
+        "baseIconId": "AA39461E-8582-4AC8-9ED0-96DB510FF490",
+        "name": "chart-histogram",
+        "codepoint": "F129",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "26E7AFEC-891E-47EE-8FC6-8B5576971999",
+        "baseIconId": "26E7AFEC-891E-47EE-8FC6-8B5576971999",
+        "name": "chart-line",
+        "codepoint": "F12A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5FA19819-6B0B-4A99-8452-F22FF7FAA1E4",
+        "baseIconId": "5FA19819-6B0B-4A99-8452-F22FF7FAA1E4",
+        "name": "chart-pie",
+        "codepoint": "F12B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9369C108-E01F-4943-8732-DF14EA9E0825",
+        "baseIconId": "9369C108-E01F-4943-8732-DF14EA9E0825",
+        "name": "check",
+        "codepoint": "F12C",
+        "aliases": [
+            "tick"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9F37D69D-B7F1-471E-9A00-A54082DCAD7D",
+        "baseIconId": "9F37D69D-B7F1-471E-9A00-A54082DCAD7D",
+        "name": "check-circle",
+        "codepoint": "FCCB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
+        "id": "741481EA-C02A-4770-918F-7170146F12D7",
+        "baseIconId": "741481EA-C02A-4770-918F-7170146F12D7",
+        "name": "chevron-double-down",
+        "codepoint": "F13C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0E94B19D-7840-40E2-AC8B-B294D90D37B0",
+        "baseIconId": "0E94B19D-7840-40E2-AC8B-B294D90D37B0",
+        "name": "chevron-double-left",
+        "codepoint": "F13D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D723DB11-DA77-4EB7-80B9-6E7FC59559B7",
+        "baseIconId": "D723DB11-DA77-4EB7-80B9-6E7FC59559B7",
+        "name": "chevron-double-right",
+        "codepoint": "F13E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "997ADB7A-BF59-49BB-B642-146F7181FA8C",
+        "baseIconId": "997ADB7A-BF59-49BB-B642-146F7181FA8C",
+        "name": "chevron-double-up",
+        "codepoint": "F13F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A555103F-B25D-4773-91BD-3D319E5F3D79",
+        "baseIconId": "A555103F-B25D-4773-91BD-3D319E5F3D79",
+        "name": "chevron-down",
+        "codepoint": "F140",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FD681AF4-55CA-4D3C-980B-F8D5A480BC40",
+        "baseIconId": "FD681AF4-55CA-4D3C-980B-F8D5A480BC40",
+        "name": "chevron-left",
+        "codepoint": "F141",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "48A76F1A-C237-43B8-84C9-5B671DC82D1C",
+        "baseIconId": "48A76F1A-C237-43B8-84C9-5B671DC82D1C",
+        "name": "chevron-right",
+        "codepoint": "F142",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6CDD5B08-76F6-430A-86B1-8C583AFC9692",
+        "baseIconId": "6CDD5B08-76F6-430A-86B1-8C583AFC9692",
+        "name": "chevron-up",
+        "codepoint": "F143",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0FF869B3-EDCD-4C5D-9820-86720A49DDF0",
+        "baseIconId": "0FF869B3-EDCD-4C5D-9820-86720A49DDF0",
+        "name": "circle",
+        "codepoint": "F764",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BCAF9107-51E6-4B4D-9191-57AF410F238F",
+        "baseIconId": "BCAF9107-51E6-4B4D-9191-57AF410F238F",
+        "name": "clipboard",
+        "codepoint": "F147",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "30832287-8E78-4874-8569-FF641D83030B",
+        "baseIconId": "30832287-8E78-4874-8569-FF641D83030B",
+        "name": "clipboard-check",
+        "codepoint": "F14C",
+        "aliases": [
+            "assignment-turned-in"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "78F07900-177C-49B4-AB0F-C98D9880A794",
+        "baseIconId": "78F07900-177C-49B4-AB0F-C98D9880A794",
+        "name": "clipboard-plus",
+        "codepoint": "F750",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CE76EAAA-2805-4FF3-A23B-412B6B24510F",
+        "baseIconId": "CE76EAAA-2805-4FF3-A23B-412B6B24510F",
+        "name": "clipboard-text",
+        "codepoint": "F14E",
+        "aliases": [
+            "assignment"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CF579505-2C0D-4680-8BAD-B512DA19143D",
+        "baseIconId": "CF579505-2C0D-4680-8BAD-B512DA19143D",
+        "name": "clock",
+        "codepoint": "F150",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F95EE0B7-CCE7-490F-9CA4-50BACA44119B",
+        "baseIconId": "F95EE0B7-CCE7-490F-9CA4-50BACA44119B",
+        "name": "closed-caption",
+        "codepoint": "F15E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A8CAEDB6-5618-4287-8701-F95E0E49DD97",
+        "baseIconId": "A8CAEDB6-5618-4287-8701-F95E0E49DD97",
+        "name": "cloud",
+        "codepoint": "F15F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "90CC4600-7FE9-4A3E-A63E-DADCD23D4641",
+        "baseIconId": "90CC4600-7FE9-4A3E-A63E-DADCD23D4641",
+        "name": "cloud-download",
+        "codepoint": "F162",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FFFF549B-99CE-4D3B-86E4-2BF32B6FFA17",
+        "baseIconId": "FFFF549B-99CE-4D3B-86E4-2BF32B6FFA17",
+        "name": "cloud-upload",
+        "codepoint": "F167",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "797F760F-AA0E-4DEA-A962-938EF8252AA8",
+        "baseIconId": "797F760F-AA0E-4DEA-A962-938EF8252AA8",
+        "name": "comment",
+        "codepoint": "F17A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F74F0CDB-6139-4592-9E9A-1CFB4AC40CAE",
+        "baseIconId": "F74F0CDB-6139-4592-9E9A-1CFB4AC40CAE",
+        "name": "comment-alert",
+        "codepoint": "F17D",
+        "aliases": [
+            "comment-warning"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "E5A9AF3F-78BA-4E40-8B11-92E044CA31B4",
+        "baseIconId": "E5A9AF3F-78BA-4E40-8B11-92E044CA31B4",
+        "name": "comment-text",
+        "codepoint": "F188",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CE052413-EC58-460D-B066-29FC2B4FA2B7",
+        "baseIconId": "CE052413-EC58-460D-B066-29FC2B4FA2B7",
+        "name": "console",
+        "codepoint": "F18D",
+        "aliases": [
+            "terminal"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9C4D4131-6B0B-41C2-BDF6-62D6A4216C93",
+        "baseIconId": "9C4D4131-6B0B-41C2-BDF6-62D6A4216C93",
+        "name": "content-cut",
+        "codepoint": "F190",
+        "aliases": [
+            "scissors",
+            "clip"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A04D0EF7-A012-4B66-BA5B-3D15791A4D1F",
+        "baseIconId": "A04D0EF7-A012-4B66-BA5B-3D15791A4D1F",
+        "name": "content-duplicate",
+        "codepoint": "F191",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5ECF5463-3D51-45A0-BECE-E9FE554691AB",
+        "baseIconId": "5ECF5463-3D51-45A0-BECE-E9FE554691AB",
+        "name": "content-paste",
+        "codepoint": "F192",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DDA08254-F102-45B6-9D7F-B968662E961A",
+        "baseIconId": "DDA08254-F102-45B6-9D7F-B968662E961A",
+        "name": "content-save",
+        "codepoint": "F193",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1CAD35C1-27AF-4739-A5F9-A510556D9690",
+        "baseIconId": "1CAD35C1-27AF-4739-A5F9-A510556D9690",
+        "name": "content-save-all",
+        "codepoint": "F194",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "38789AE7-120C-4CEC-8888-B33F46F7DE39",
+        "baseIconId": "38789AE7-120C-4CEC-8888-B33F46F7DE39",
+        "name": "credit-card",
+        "codepoint": "F19B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AFEAC773-C960-4E5F-9ABB-C6090E5C762D",
+        "baseIconId": "AFEAC773-C960-4E5F-9ABB-C6090E5C762D",
+        "name": "credit-card-scan",
+        "codepoint": "F19D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "99F1F09C-CA54-4DCC-959F-C5A4E1CE87D9",
+        "baseIconId": "99F1F09C-CA54-4DCC-959F-C5A4E1CE87D9",
+        "name": "crop",
+        "codepoint": "F19E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DAC98269-16D6-4C7D-8D66-A766F9726936",
+        "baseIconId": "DAC98269-16D6-4C7D-8D66-A766F9726936",
+        "name": "crop-free",
+        "codepoint": "F19F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F23C850D-44EE-4EB9-8DF4-C64464FF5012",
+        "baseIconId": "F23C850D-44EE-4EB9-8DF4-C64464FF5012",
+        "name": "currency-eur",
+        "codepoint": "F1AD",
+        "aliases": [
+            "euro"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9B93B39A-0EF8-4EEB-BFB8-E231337B4ECD",
+        "baseIconId": "9B93B39A-0EF8-4EEB-BFB8-E231337B4ECD",
+        "name": "currency-gbp",
+        "codepoint": "F1AE",
+        "aliases": [
+            "pound",
+            "sterling"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CB835AAD-2E3B-4C53-BF5E-9F9A307336FD",
+        "baseIconId": "CB835AAD-2E3B-4C53-BF5E-9F9A307336FD",
+        "name": "currency-rub",
+        "codepoint": "F1B1",
+        "aliases": [
+            "ruble"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "131C469A-0A3B-46F3-8012-E691084F0EBD",
+        "baseIconId": "131C469A-0A3B-46F3-8012-E691084F0EBD",
+        "name": "currency-usd",
+        "codepoint": "F1B3",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A5930B2C-AB99-46FF-ADAE-E09E072344D2",
+        "baseIconId": "A5930B2C-AB99-46FF-ADAE-E09E072344D2",
+        "name": "delete",
+        "codepoint": "F1C0",
+        "aliases": [
+            "bin",
+            "trash"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "8FC3F861-3F35-4327-BEAF-01D3506313EF",
+        "baseIconId": "8FC3F861-3F35-4327-BEAF-01D3506313EF",
+        "name": "diamond-stone",
+        "codepoint": "F1C8",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "33FC299C-2BB0-4B46-AA12-5E2C5698C105",
+        "baseIconId": "33FC299C-2BB0-4B46-AA12-5E2C5698C105",
+        "name": "dots-horizontal",
+        "codepoint": "F1D8",
+        "aliases": [
+            "ellipsis-horizontal",
+            "more"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1F345A6C-B293-4C71-A1A2-3DA3B13FDCD2",
+        "baseIconId": "1F345A6C-B293-4C71-A1A2-3DA3B13FDCD2",
+        "name": "dots-vertical",
+        "codepoint": "F1D9",
+        "aliases": [
+            "ellipsis-vertical"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "E20DB718-55B4-4CA6-BA70-2D743F512DA3",
+        "baseIconId": "E20DB718-55B4-4CA6-BA70-2D743F512DA3",
+        "name": "download",
+        "codepoint": "F1DA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CB9BF164-92E3-4B95-87F1-ADD4C6F73656",
+        "baseIconId": "CB9BF164-92E3-4B95-87F1-ADD4C6F73656",
+        "name": "eject",
+        "codepoint": "F1EA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "22A91DAE-D7F7-4D05-8060-D1575FB65227",
+        "baseIconId": "22A91DAE-D7F7-4D05-8060-D1575FB65227",
+        "name": "email",
+        "codepoint": "F1EE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5715FCF4-081F-4A59-8879-98041CBA3296",
+        "baseIconId": "5715FCF4-081F-4A59-8879-98041CBA3296",
+        "name": "email-open",
+        "codepoint": "F1EF",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9EAB07A7-5D5E-4B8E-B608-94EA62BD701F",
+        "baseIconId": "9EAB07A7-5D5E-4B8E-B608-94EA62BD701F",
+        "name": "equalizer",
+        "codepoint": "FCCC",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
+        "id": "2A422143-1C2E-43FD-8DC3-F1F29FDCBF31",
+        "baseIconId": "2A422143-1C2E-43FD-8DC3-F1F29FDCBF31",
+        "name": "eye",
+        "codepoint": "F208",
+        "aliases": [
+            "show",
+            "visibility"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FA1D915F-A7B1-438D-975B-E915DF0A11C3",
+        "baseIconId": "FA1D915F-A7B1-438D-975B-E915DF0A11C3",
+        "name": "eye-off",
+        "codepoint": "F209",
+        "aliases": [
+            "hide",
+            "visibility-off"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EDA119E3-FED9-4D57-A926-B8C79003653D",
+        "baseIconId": "EDA119E3-FED9-4D57-A926-B8C79003653D",
+        "name": "face-mask",
+        "codepoint": "FCC1",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Michael Irigoyen"
+    },
+    {
+        "id": "7181A0AB-3BEE-45A5-BEE5-6FBDE82F56B0",
+        "baseIconId": "7181A0AB-3BEE-45A5-BEE5-6FBDE82F56B0",
+        "name": "factory",
+        "codepoint": "F20F",
+        "aliases": [
+            "industrial"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AA31F57B-F980-4397-9892-1C8B2D0AAC35",
+        "baseIconId": "AA31F57B-F980-4397-9892-1C8B2D0AAC35",
+        "name": "fast-forward",
+        "codepoint": "F211",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F22C8C16-14E5-460A-98BC-3F27758FD50B",
+        "baseIconId": "F22C8C16-14E5-460A-98BC-3F27758FD50B",
+        "name": "file",
+        "codepoint": "F214",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6BFBAF33-3F02-4137-8477-38584119D180",
+        "baseIconId": null,
+        "name": "file-alert",
+        "codepoint": "FCC2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "DF64A2B8-E24D-4E07-AB09-5FCF11985BC6",
+        "baseIconId": "DF64A2B8-E24D-4E07-AB09-5FCF11985BC6",
+        "name": "file-multiple",
+        "codepoint": "F222",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D53F15E8-7265-48B6-A0EB-315CDBB22873",
+        "baseIconId": "D53F15E8-7265-48B6-A0EB-315CDBB22873",
+        "name": "file-plus",
+        "codepoint": "F751",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CF85B119-F608-4F59-BBB0-D7D2F8055002",
+        "baseIconId": "CF85B119-F608-4F59-BBB0-D7D2F8055002",
+        "name": "flag",
+        "codepoint": "F23B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4C099158-5222-4530-8AEA-EB40367C0E2E",
+        "baseIconId": "4C099158-5222-4530-8AEA-EB40367C0E2E",
+        "name": "flash",
+        "codepoint": "F241",
+        "aliases": [
+            "lightning-bolt"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7FF06C65-3646-4D20-8EEC-BCF7AE9887FF",
+        "baseIconId": "7FF06C65-3646-4D20-8EEC-BCF7AE9887FF",
+        "name": "flask",
+        "codepoint": "F093",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F79B4C4D-F0E4-4D74-AF4D-C727AAB8403D",
+        "baseIconId": "F79B4C4D-F0E4-4D74-AF4D-C727AAB8403D",
+        "name": "flask-empty",
+        "codepoint": "F094",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "53BB9DE1-56E0-422B-A5E9-EE288938C388",
+        "baseIconId": "53BB9DE1-56E0-422B-A5E9-EE288938C388",
+        "name": "folder",
+        "codepoint": "F24B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9E852062-A5C1-47BF-9963-C7AB379D8C38",
+        "baseIconId": "9E852062-A5C1-47BF-9963-C7AB379D8C38",
+        "name": "folder-multiple",
+        "codepoint": "F253",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5F1282B8-4CD3-4600-B566-459285CE0CD3",
+        "baseIconId": "5F1282B8-4CD3-4600-B566-459285CE0CD3",
+        "name": "folder-plus",
+        "codepoint": "F257",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B1DCD5EE-531C-49A3-A0B4-ED56E89ABF34",
+        "baseIconId": "B1DCD5EE-531C-49A3-A0B4-ED56E89ABF34",
+        "name": "format-align-bottom",
+        "codepoint": "F752",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0DEB60AF-193A-4469-A484-A527D398AA16",
+        "baseIconId": "0DEB60AF-193A-4469-A484-A527D398AA16",
+        "name": "format-align-center",
+        "codepoint": "F260",
+        "aliases": [
+            "format-align-centre"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4345CADB-3B7B-4877-B48B-A5864C87A0FA",
+        "baseIconId": "4345CADB-3B7B-4877-B48B-A5864C87A0FA",
+        "name": "format-align-justify",
+        "codepoint": "F261",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "40E42DD2-ECEA-4E0B-92BC-B5520AAC812E",
+        "baseIconId": "40E42DD2-ECEA-4E0B-92BC-B5520AAC812E",
+        "name": "format-align-left",
+        "codepoint": "F262",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "377126F4-EBD9-42B9-BF2B-C3DE2601FFFF",
+        "baseIconId": "377126F4-EBD9-42B9-BF2B-C3DE2601FFFF",
+        "name": "format-align-middle",
+        "codepoint": "F753",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AFA8FDE7-BCC2-4352-8BA4-F91572008315",
+        "baseIconId": "AFA8FDE7-BCC2-4352-8BA4-F91572008315",
+        "name": "format-align-right",
+        "codepoint": "F263",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "045CF92E-E964-4FF9-AC34-8BD8DB0A7696",
+        "baseIconId": "045CF92E-E964-4FF9-AC34-8BD8DB0A7696",
+        "name": "format-align-top",
+        "codepoint": "F754",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CC61F854-E4CE-4DD6-8902-E5FE5550AA37",
+        "baseIconId": "CC61F854-E4CE-4DD6-8902-E5FE5550AA37",
+        "name": "format-bold",
+        "codepoint": "F264",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C07C3224-842D-4699-8359-B6E953E189FC",
+        "baseIconId": "C07C3224-842D-4699-8359-B6E953E189FC",
+        "name": "format-clear",
+        "codepoint": "F265",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A36FB467-36AD-481A-82D8-A31D46E8554E",
+        "baseIconId": "A36FB467-36AD-481A-82D8-A31D46E8554E",
+        "name": "format-float-center",
+        "codepoint": "F267",
+        "aliases": [
+            "format-float-centre"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AC95D5C7-832D-4D05-9311-B9D4428368E4",
+        "baseIconId": "AC95D5C7-832D-4D05-9311-B9D4428368E4",
+        "name": "format-float-left",
+        "codepoint": "F268",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0A74F466-9FE8-40F3-A75E-81AC7F56CE9C",
+        "baseIconId": "0A74F466-9FE8-40F3-A75E-81AC7F56CE9C",
+        "name": "format-float-none",
+        "codepoint": "F269",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BBC821ED-9BA1-4A78-BC35-6F83B2437D84",
+        "baseIconId": "BBC821ED-9BA1-4A78-BC35-6F83B2437D84",
+        "name": "format-float-right",
+        "codepoint": "F26A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2E0F378D-0CE5-4AAF-89C4-3DA29086A7D1",
+        "baseIconId": "2E0F378D-0CE5-4AAF-89C4-3DA29086A7D1",
+        "name": "format-indent-decrease",
+        "codepoint": "F275",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "925460C8-2470-4176-8988-4A1DA74F590C",
+        "baseIconId": "925460C8-2470-4176-8988-4A1DA74F590C",
+        "name": "format-indent-increase",
+        "codepoint": "F276",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "706D0A64-8CC2-4C2A-A4EC-181B6069AB01",
+        "baseIconId": "706D0A64-8CC2-4C2A-A4EC-181B6069AB01",
+        "name": "format-italic",
+        "codepoint": "F277",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C6F5FAFB-34FC-482D-9CE3-797F2E8AC484",
+        "baseIconId": "C6F5FAFB-34FC-482D-9CE3-797F2E8AC484",
+        "name": "format-line-spacing",
+        "codepoint": "F278",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "738FDD6E-1A80-4163-A469-6A1FE53176D4",
+        "baseIconId": "738FDD6E-1A80-4163-A469-6A1FE53176D4",
+        "name": "format-list-bulleted",
+        "codepoint": "F279",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "96FD6FFA-9CDE-47A4-B91B-986065B8AA31",
+        "baseIconId": "96FD6FFA-9CDE-47A4-B91B-986065B8AA31",
+        "name": "format-list-checks",
+        "codepoint": "F755",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "91658E63-7BDD-4FD2-A515-C4AC440B98FF",
+        "baseIconId": "91658E63-7BDD-4FD2-A515-C4AC440B98FF",
+        "name": "format-list-numbered",
+        "codepoint": "F27B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "E634ECA0-683D-4B53-92FE-5FF486DC7219",
+        "baseIconId": "E634ECA0-683D-4B53-92FE-5FF486DC7219",
+        "name": "format-quote-close",
+        "codepoint": "F27E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AE33A258-80E8-4EB0-AC1F-8F6B1C2875CE",
+        "baseIconId": "AE33A258-80E8-4EB0-AC1F-8F6B1C2875CE",
+        "name": "format-quote-open",
+        "codepoint": "F756",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9CC99C31-91E6-4230-B80D-D5A96428E3D5",
+        "baseIconId": "9CC99C31-91E6-4230-B80D-D5A96428E3D5",
+        "name": "format-underline",
+        "codepoint": "F287",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "60F766F8-420C-43AF-A1A9-774FE8CEEC92",
+        "baseIconId": "60F766F8-420C-43AF-A1A9-774FE8CEEC92",
+        "name": "format-wrap-inline",
+        "codepoint": "F288",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "94C280ED-D295-42CC-BFF0-EFDED63E6FD2",
+        "baseIconId": "94C280ED-D295-42CC-BFF0-EFDED63E6FD2",
+        "name": "format-wrap-square",
+        "codepoint": "F289",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F4A16C99-B444-40A4-B568-902DE851CEB9",
+        "baseIconId": "F4A16C99-B444-40A4-B568-902DE851CEB9",
+        "name": "format-wrap-tight",
+        "codepoint": "F28A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7D783F9D-CAE2-4470-8CBB-2294C085CD54",
+        "baseIconId": "7D783F9D-CAE2-4470-8CBB-2294C085CD54",
+        "name": "format-wrap-top-bottom",
+        "codepoint": "F28B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C1D28BF0-69AB-45C3-AA2A-1E373C3F7855",
+        "baseIconId": "C1D28BF0-69AB-45C3-AA2A-1E373C3F7855",
+        "name": "forum",
+        "codepoint": "F28C",
+        "aliases": [
+            "message-group"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "158F2597-422F-4068-8E18-8EF8983E1BE1",
+        "baseIconId": "158F2597-422F-4068-8E18-8EF8983E1BE1",
+        "name": "fullscreen",
+        "codepoint": "F293",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DE213505-D4B6-4630-ABE3-1A7F689F6905",
+        "baseIconId": "DE213505-D4B6-4630-ABE3-1A7F689F6905",
+        "name": "fullscreen-exit",
+        "codepoint": "F294",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5610B3C0-5AAA-4BBF-B520-17BFADBF074E",
+        "baseIconId": "5610B3C0-5AAA-4BBF-B520-17BFADBF074E",
+        "name": "gender-female",
+        "codepoint": "FCCD",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "22F06504-7F6A-4D37-A015-13B2FCEDB739",
+        "baseIconId": "22F06504-7F6A-4D37-A015-13B2FCEDB739",
+        "name": "gender-male",
+        "codepoint": "FCCE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "3825018D-31E8-49A5-8389-E5CE2F31F433",
+        "baseIconId": "3825018D-31E8-49A5-8389-E5CE2F31F433",
+        "name": "gender-male-female",
+        "codepoint": "FCCF",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "C29E9109-0422-4BB2-A7EF-D2ADA4DCCDC0",
+        "baseIconId": "C29E9109-0422-4BB2-A7EF-D2ADA4DCCDC0",
+        "name": "gender-transgender",
+        "codepoint": "FCD0",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "80DC672D-1D3A-42FD-B6C8-5274AC9AE5A6",
+        "baseIconId": "80DC672D-1D3A-42FD-B6C8-5274AC9AE5A6",
+        "name": "gift",
+        "codepoint": "F2A1",
+        "aliases": [
+            "donate",
+            "present"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CB27B665-499F-4F91-AF9D-0162AF970D90",
+        "baseIconId": "CB27B665-499F-4F91-AF9D-0162AF970D90",
+        "name": "grid",
+        "codepoint": "F2C1",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AB182EDD-DD9E-45AE-A3F8-4E6A2FC8C1FB",
+        "baseIconId": "AB182EDD-DD9E-45AE-A3F8-4E6A2FC8C1FB",
+        "name": "grid-large",
+        "codepoint": "F757",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C153CDE7-4B28-400E-9E24-8395843D2729",
+        "baseIconId": "C153CDE7-4B28-400E-9E24-8395843D2729",
+        "name": "grid-off",
+        "codepoint": "F2C2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1454CE6A-3C1E-4C78-9C91-AC141569BF7B",
+        "baseIconId": "1454CE6A-3C1E-4C78-9C91-AC141569BF7B",
+        "name": "group",
+        "codepoint": "F2C3",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0AFEC8E7-DCF5-4DB6-B353-B53FE10C0986",
+        "baseIconId": "0AFEC8E7-DCF5-4DB6-B353-B53FE10C0986",
+        "name": "hamburger",
+        "codepoint": "F684",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DCB5714F-9E65-43C5-A6BA-FFB5F91700DC",
+        "baseIconId": "DCB5714F-9E65-43C5-A6BA-FFB5F91700DC",
+        "name": "heart",
+        "codepoint": "F2D1",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4663D762-2980-4F05-BA77-475660CBAA63",
+        "baseIconId": "4663D762-2980-4F05-BA77-475660CBAA63",
+        "name": "heart-half",
+        "codepoint": "F6DE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DB206EFF-52CB-4FCE-B597-37DDD2533F02",
+        "baseIconId": "DB206EFF-52CB-4FCE-B597-37DDD2533F02",
+        "name": "heart-off",
+        "codepoint": "F758",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "143D265A-0357-4B89-81B8-765BBF8B11AC",
+        "baseIconId": "143D265A-0357-4B89-81B8-765BBF8B11AC",
+        "name": "help",
+        "codepoint": "F2D6",
+        "aliases": [
+            "question-mark"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C65E2C17-E7C8-41DF-BC1C-BDB81AD51842",
+        "baseIconId": "C65E2C17-E7C8-41DF-BC1C-BDB81AD51842",
+        "name": "help-circle",
+        "codepoint": "F2D7",
+        "aliases": [
+            "question-mark-circle"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BC458BAC-5406-4D3C-92B9-477C0F903702",
+        "baseIconId": "BC458BAC-5406-4D3C-92B9-477C0F903702",
+        "name": "hexagon",
+        "codepoint": "F2D8",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "72587467-554B-4B15-8278-CB4270960379",
+        "baseIconId": "72587467-554B-4B15-8278-CB4270960379",
+        "name": "home",
+        "codepoint": "F2DC",
+        "aliases": [
+            "house"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "03C72909-2540-48D8-B092-6959A26C51C1",
+        "baseIconId": "03C72909-2540-48D8-B092-6959A26C51C1",
+        "name": "image",
+        "codepoint": "F2E9",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CBEFDFD8-F2AD-4377-89C3-AD7D8E025CA6",
+        "baseIconId": "CBEFDFD8-F2AD-4377-89C3-AD7D8E025CA6",
+        "name": "inbox",
+        "codepoint": "F686",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2F0BA9E2-7D75-4061-917C-765CBF2B918E",
+        "baseIconId": "2F0BA9E2-7D75-4061-917C-765CBF2B918E",
+        "name": "information",
+        "codepoint": "F2FC",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DDEFEEEE-148A-499E-A2D4-75E78A85E3A8",
+        "baseIconId": "DDEFEEEE-148A-499E-A2D4-75E78A85E3A8",
+        "name": "label",
+        "codepoint": "F315",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "01667295-C9F0-49DA-9BCA-38AA46D64D0F",
+        "baseIconId": "01667295-C9F0-49DA-9BCA-38AA46D64D0F",
+        "name": "layers",
+        "codepoint": "F328",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "262D67F4-EC4D-4987-BC4F-9C1E43385A87",
+        "baseIconId": "262D67F4-EC4D-4987-BC4F-9C1E43385A87",
+        "name": "lightbulb",
+        "codepoint": "F335",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CEFBBB36-E4D3-477D-A09A-F39CE93AD68C",
+        "baseIconId": "CEFBBB36-E4D3-477D-A09A-F39CE93AD68C",
+        "name": "lightbulb-on",
+        "codepoint": "F6E7",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "702C4768-FC47-4643-9842-BE8D4FE28B5E",
+        "baseIconId": "702C4768-FC47-4643-9842-BE8D4FE28B5E",
+        "name": "link",
+        "codepoint": "F337",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "89C91993-4562-4C35-8AD5-B3048B3AF883",
+        "baseIconId": "89C91993-4562-4C35-8AD5-B3048B3AF883",
+        "name": "link-variant",
+        "codepoint": "F339",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0278A3BD-ACF9-49D5-BCCE-DDE4BE645AD1",
+        "baseIconId": null,
+        "name": "loading",
+        "codepoint": "FCC3",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "90755BC8-CFF6-4CD7-B163-609286A04272",
+        "baseIconId": "90755BC8-CFF6-4CD7-B163-609286A04272",
+        "name": "lock",
+        "codepoint": "F33E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5864543F-FCBC-4884-8D8E-6756AD648795",
+        "baseIconId": "5864543F-FCBC-4884-8D8E-6756AD648795",
+        "name": "lock-open",
+        "codepoint": "F33F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7D3FBCF1-335E-4663-8C19-63737F595184",
+        "baseIconId": "7D3FBCF1-335E-4663-8C19-63737F595184",
+        "name": "login",
+        "codepoint": "F342",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7A46E0FC-01BB-4281-B572-AAF5AA2BA698",
+        "baseIconId": "7A46E0FC-01BB-4281-B572-AAF5AA2BA698",
+        "name": "logout",
+        "codepoint": "F343",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "63DF7BAF-09E5-460B-B002-940E69F4AA9E",
+        "baseIconId": "63DF7BAF-09E5-460B-B002-940E69F4AA9E",
+        "name": "magnify",
+        "codepoint": "F349",
+        "aliases": [
+            "search"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "CB25CBD7-9DED-476D-BD54-E57243E2E93A",
+        "baseIconId": "CB25CBD7-9DED-476D-BD54-E57243E2E93A",
+        "name": "magnify-minus",
+        "codepoint": "F34A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "265939D8-F8AA-459C-99C2-69D81D6FFE17",
+        "baseIconId": "265939D8-F8AA-459C-99C2-69D81D6FFE17",
+        "name": "magnify-plus",
+        "codepoint": "F34B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0AB4C37B-B402-4BA4-B8FD-E5D2479BA4C1",
+        "baseIconId": "0AB4C37B-B402-4BA4-B8FD-E5D2479BA4C1",
+        "name": "map-marker",
+        "codepoint": "F34E",
+        "aliases": [
+            "address-marker",
+            "location"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "16D76B72-600B-4AA0-BAAD-7DE27560C3DC",
+        "baseIconId": "16D76B72-600B-4AA0-BAAD-7DE27560C3DC",
+        "name": "memory",
+        "codepoint": "F35B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F8924903-5C4B-4C72-8E75-02DAB78DBF57",
+        "baseIconId": "F8924903-5C4B-4C72-8E75-02DAB78DBF57",
+        "name": "menu",
+        "codepoint": "F35C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "55FAC0F1-8B5F-4B0A-AAD6-77E03B0737A8",
+        "baseIconId": "55FAC0F1-8B5F-4B0A-AAD6-77E03B0737A8",
+        "name": "message",
+        "codepoint": "F361",
+        "aliases": [
+            "chat-bubble"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F8B0917A-60B6-412C-A495-E6A4943AA559",
+        "baseIconId": "F8B0917A-60B6-412C-A495-E6A4943AA559",
+        "name": "message-alert",
+        "codepoint": "F362",
+        "aliases": [
+            "feedback",
+            "message-warning",
+            "announcement"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1FAD7F13-45BD-4367-B0E3-3032A386EBF1",
+        "baseIconId": "1FAD7F13-45BD-4367-B0E3-3032A386EBF1",
+        "name": "message-image",
+        "codepoint": "F364",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0832CE54-C732-4C10-ADC9-C89232CC7986",
+        "baseIconId": "0832CE54-C732-4C10-ADC9-C89232CC7986",
+        "name": "message-processing",
+        "codepoint": "F366",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D0A87373-2E0F-4875-9EE1-6B56CAD7F2E1",
+        "baseIconId": "D0A87373-2E0F-4875-9EE1-6B56CAD7F2E1",
+        "name": "message-reply",
+        "codepoint": "F367",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9DB3406B-67CC-4E7D-891A-6F9E780647D5",
+        "baseIconId": "9DB3406B-67CC-4E7D-891A-6F9E780647D5",
+        "name": "message-text",
+        "codepoint": "F369",
+        "aliases": [
+            "chat"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6963FBE8-58F2-4EDB-A678-1E9610FD9BA5",
+        "baseIconId": "6963FBE8-58F2-4EDB-A678-1E9610FD9BA5",
+        "name": "message-video",
+        "codepoint": "F36B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AA49407C-B0AB-4A00-8BF9-A6ADCDA00401",
+        "baseIconId": "AA49407C-B0AB-4A00-8BF9-A6ADCDA00401",
+        "name": "microphone",
+        "codepoint": "F36C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0E20C91C-06F6-4228-91F6-79355BEAF8EF",
+        "baseIconId": "0E20C91C-06F6-4228-91F6-79355BEAF8EF",
+        "name": "microphone-off",
+        "codepoint": "F36D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "328DA771-B76B-4493-9DB3-A5FE9A68339F",
+        "baseIconId": "328DA771-B76B-4493-9DB3-A5FE9A68339F",
+        "name": "minus",
+        "codepoint": "F374",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FB697170-364D-4381-BB9A-56F020F5F72C",
+        "baseIconId": "FB697170-364D-4381-BB9A-56F020F5F72C",
+        "name": "minus-box",
+        "codepoint": "F375",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "ECE487FF-38C4-4D44-9BF6-74773B4EA6AC",
+        "baseIconId": "ECE487FF-38C4-4D44-9BF6-74773B4EA6AC",
+        "name": "minus-circle",
+        "codepoint": "F376",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9527CECB-7171-4C81-8B98-27785860CDBD",
+        "baseIconId": "9527CECB-7171-4C81-8B98-27785860CDBD",
+        "name": "monitor",
+        "codepoint": "F379",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4EBCAF8B-8EBE-442D-A711-B5D40A5D3563",
+        "baseIconId": "4EBCAF8B-8EBE-442D-A711-B5D40A5D3563",
+        "name": "monitor-multiple",
+        "codepoint": "F37A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "095EFE20-E3B3-465D-B63F-BF27C2E69DC0",
+        "baseIconId": "095EFE20-E3B3-465D-B63F-BF27C2E69DC0",
+        "name": "music",
+        "codepoint": "F759",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EA7B5C9F-AED9-4951-970E-3300E3BADB13",
+        "baseIconId": "EA7B5C9F-AED9-4951-970E-3300E3BADB13",
+        "name": "music-off",
+        "codepoint": "F75A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FA7E8ECE-C101-42CE-A060-80929EB753E5",
+        "baseIconId": "FA7E8ECE-C101-42CE-A060-80929EB753E5",
+        "name": "nfc-variant",
+        "codepoint": "F398",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2A535D58-3826-46B6-A143-586703D5B82C",
+        "baseIconId": "2A535D58-3826-46B6-A143-586703D5B82C",
+        "name": "note",
+        "codepoint": "F39A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5692776A-1307-4CE5-87AD-DDD871C59E43",
+        "baseIconId": "5692776A-1307-4CE5-87AD-DDD871C59E43",
+        "name": "note-multiple",
+        "codepoint": "F6B7",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C17035E7-3C79-46EE-B678-58514EAA2492",
+        "baseIconId": "C17035E7-3C79-46EE-B678-58514EAA2492",
+        "name": "note-plus",
+        "codepoint": "F39C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "702AC1CD-3009-4046-946A-1B4994C181CC",
+        "baseIconId": "702AC1CD-3009-4046-946A-1B4994C181CC",
+        "name": "note-text",
+        "codepoint": "F39E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "DDDB9646-C67B-4AFD-8C8F-10B5C3B71601",
+        "baseIconId": "DDDB9646-C67B-4AFD-8C8F-10B5C3B71601",
+        "name": "octagon",
+        "codepoint": "F3C3",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FE5D7322-FA4D-4453-911A-3B17F06D21BD",
+        "baseIconId": "FE5D7322-FA4D-4453-911A-3B17F06D21BD",
+        "name": "paperclip",
+        "codepoint": "F3E2",
+        "aliases": [
+            "attachment-vertical"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C869448C-D281-48A0-8BC1-AEE451ED4941",
+        "baseIconId": "C869448C-D281-48A0-8BC1-AEE451ED4941",
+        "name": "pause",
+        "codepoint": "F3E4",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0DAEDFB9-7C35-4586-ACDB-6843D8933777",
+        "baseIconId": "0DAEDFB9-7C35-4586-ACDB-6843D8933777",
+        "name": "pencil",
+        "codepoint": "F3EB",
+        "aliases": [
+            "edit"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A4798268-A431-4A0D-A16B-7AF7B7D2DBB4",
+        "baseIconId": "A4798268-A431-4A0D-A16B-7AF7B7D2DBB4",
+        "name": "phone",
+        "codepoint": "F3F2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D2184A71-A301-4547-917F-6761E7945748",
+        "baseIconId": "D2184A71-A301-4547-917F-6761E7945748",
+        "name": "pin",
+        "codepoint": "F403",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2B837329-53BE-487B-BE43-C5D1BA9AD2FB",
+        "baseIconId": "2B837329-53BE-487B-BE43-C5D1BA9AD2FB",
+        "name": "pin-off",
+        "codepoint": "F404",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BCA0ABF1-C7BB-4244-B30F-ACB1718C3970",
+        "baseIconId": "BCA0ABF1-C7BB-4244-B30F-ACB1718C3970",
+        "name": "play",
+        "codepoint": "F40A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9A20D2A7-9E10-4BB6-BC47-13008798E39F",
+        "baseIconId": "9A20D2A7-9E10-4BB6-BC47-13008798E39F",
+        "name": "plus",
+        "codepoint": "F415",
+        "aliases": [
+            "add"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FCBF01D0-7430-441F-B797-5775D9B4540C",
+        "baseIconId": "FCBF01D0-7430-441F-B797-5775D9B4540C",
+        "name": "plus-box",
+        "codepoint": "F416",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6891B856-58C8-4963-988D-099F88B4D0EE",
+        "baseIconId": "6891B856-58C8-4963-988D-099F88B4D0EE",
+        "name": "plus-circle",
+        "codepoint": "F417",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "2BE93F7C-D267-4C97-814A-93550085C06B",
+        "baseIconId": "2BE93F7C-D267-4C97-814A-93550085C06B",
+        "name": "power",
+        "codepoint": "F425",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BE559576-766F-4911-B71C-4C5C6625AFB3",
+        "baseIconId": "BE559576-766F-4911-B71C-4C5C6625AFB3",
+        "name": "presentation",
+        "codepoint": "F428",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F6AF7E07-0587-463C-B0BC-707A39DA4AA3",
+        "baseIconId": "F6AF7E07-0587-463C-B0BC-707A39DA4AA3",
+        "name": "presentation-play",
+        "codepoint": "F429",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B2BF6BC2-B8B7-40A9-B21A-6744DD313DA1",
+        "baseIconId": "B2BF6BC2-B8B7-40A9-B21A-6744DD313DA1",
+        "name": "printer",
+        "codepoint": "F42A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A1108614-F000-4CD4-8954-617C969B1803",
+        "baseIconId": "A1108614-F000-4CD4-8954-617C969B1803",
+        "name": "redo-variant",
+        "codepoint": "F44F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "061F0462-756A-4DB4-89DD-C52574F64CC5",
+        "baseIconId": "061F0462-756A-4DB4-89DD-C52574F64CC5",
+        "name": "refresh",
+        "codepoint": "F450",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B432DD97-E179-4DA6-BED3-B2358C136AA4",
+        "baseIconId": "B432DD97-E179-4DA6-BED3-B2358C136AA4",
+        "name": "repeat",
+        "codepoint": "F456",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "EB18866B-23E5-49A2-9D3D-4F6D5FBD180D",
+        "baseIconId": "EB18866B-23E5-49A2-9D3D-4F6D5FBD180D",
+        "name": "repeat-off",
+        "codepoint": "F457",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "506651C5-01A2-4069-9E59-0DB46AEAA4DF",
+        "baseIconId": "506651C5-01A2-4069-9E59-0DB46AEAA4DF",
+        "name": "repeat-once",
+        "codepoint": "F458",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AC057191-6302-4F43-973F-D123271B05EA",
+        "baseIconId": "AC057191-6302-4F43-973F-D123271B05EA",
+        "name": "rewind",
+        "codepoint": "F45F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4EC8E41A-4223-4924-993D-6D356B7DA3BC",
+        "baseIconId": "4EC8E41A-4223-4924-993D-6D356B7DA3BC",
+        "name": "rhombus",
+        "codepoint": "F70A",
+        "aliases": [
+            "diamond"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "0CDBEABB-EED4-49EB-BC30-09E85A002AA0",
+        "baseIconId": "0CDBEABB-EED4-49EB-BC30-09E85A002AA0",
+        "name": "rss",
+        "codepoint": "F46B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "E5C73896-54BC-470D-80F7-054EEF75F206",
+        "baseIconId": "E5C73896-54BC-470D-80F7-054EEF75F206",
+        "name": "script",
+        "codepoint": "F478",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D8D3EECD-5B12-4466-81AC-82B868117618",
+        "baseIconId": "D8D3EECD-5B12-4466-81AC-82B868117618",
+        "name": "settings",
+        "codepoint": "F493",
+        "aliases": [
+            "cog",
+            "gear"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "3369F34F-D5E6-4495-9846-AA94DE6B1CC6",
+        "baseIconId": "3369F34F-D5E6-4495-9846-AA94DE6B1CC6",
+        "name": "share",
+        "codepoint": "FCD1",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Doug C. Hardester"
+    },
+    {
+        "id": "65BF125D-0D1A-4118-A80B-BF4BA509E67D",
+        "baseIconId": "65BF125D-0D1A-4118-A80B-BF4BA509E67D",
+        "name": "share-variant",
+        "codepoint": "FCD2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Doug C. Hardester"
+    },
+    {
+        "id": "E3790795-EB82-4BBD-A409-155F7E8C4A2A",
+        "baseIconId": "E3790795-EB82-4BBD-A409-155F7E8C4A2A",
+        "name": "shield",
+        "codepoint": "F498",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "804E6F4F-4910-4B27-90B5-E3A79A61180D",
+        "baseIconId": "804E6F4F-4910-4B27-90B5-E3A79A61180D",
+        "name": "shuffle",
+        "codepoint": "F49D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4D278441-7983-431C-9527-79B25679B794",
+        "baseIconId": "4D278441-7983-431C-9527-79B25679B794",
+        "name": "signal",
+        "codepoint": "F4A2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6B80FD4E-50F6-46FE-9898-73FBE83D9058",
+        "baseIconId": null,
+        "name": "sim",
+        "codepoint": "FCC4",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "3DFF99E9-D9E6-43D7-927D-E05514B47DB2",
+        "baseIconId": null,
+        "name": "sim-alert",
+        "codepoint": "FCC5",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [
+            "Alert \/ Error"
+        ],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "F482A20F-2E4F-4551-A547-A67804FFF9B4",
+        "baseIconId": null,
+        "name": "sim-off",
+        "codepoint": "FCC6",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "A14FAF31-A10F-4AE8-9221-994BB80C208F",
+        "baseIconId": "A14FAF31-A10F-4AE8-9221-994BB80C208F",
+        "name": "sitemap",
+        "codepoint": "F4AA",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "AD4E5824-19A5-455B-88B0-4EE98F715DD8",
+        "baseIconId": "AD4E5824-19A5-455B-88B0-4EE98F715DD8",
+        "name": "skip-next",
+        "codepoint": "F4AD",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "BF5ACDE7-B027-4DAE-B7BB-AE4588C47D75",
+        "baseIconId": "BF5ACDE7-B027-4DAE-B7BB-AE4588C47D75",
+        "name": "skip-previous",
+        "codepoint": "F4AE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A612A948-8495-4003-B2F5-24A0B88825C6",
+        "baseIconId": "A612A948-8495-4003-B2F5-24A0B88825C6",
+        "name": "sleep",
+        "codepoint": "F4B2",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "8FE1B42E-EFCA-431D-9C85-233572E6E107",
+        "baseIconId": "8FE1B42E-EFCA-431D-9C85-233572E6E107",
+        "name": "sleep-off",
+        "codepoint": "F4B3",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "321A7282-FD73-4EB3-B6C7-C2BD4EF1B36F",
+        "baseIconId": "321A7282-FD73-4EB3-B6C7-C2BD4EF1B36F",
+        "name": "spellcheck",
+        "codepoint": "F4C6",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "8234401A-3F00-4285-8638-DA7E4E1FB313",
+        "baseIconId": "8234401A-3F00-4285-8638-DA7E4E1FB313",
+        "name": "square",
+        "codepoint": "F763",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1A83CD80-71FB-448C-A7FB-76492B7880D3",
+        "baseIconId": "1A83CD80-71FB-448C-A7FB-76492B7880D3",
+        "name": "star",
+        "codepoint": "F4CE",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A316B314-1FE5-4144-9901-047DBDA73338",
+        "baseIconId": "A316B314-1FE5-4144-9901-047DBDA73338",
+        "name": "star-half",
+        "codepoint": "F4D0",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "679F175A-6EB7-4829-AA58-6494EAB804E6",
+        "baseIconId": "679F175A-6EB7-4829-AA58-6494EAB804E6",
+        "name": "stop",
+        "codepoint": "F4DB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "35592B86-7F1D-4ADD-9A11-053EF555D1AD",
+        "baseIconId": "35592B86-7F1D-4ADD-9A11-053EF555D1AD",
+        "name": "tab",
+        "codepoint": "F4E9",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "506D324D-6728-449F-8517-DE1A7A195A1A",
+        "baseIconId": "506D324D-6728-449F-8517-DE1A7A195A1A",
+        "name": "tab-plus",
+        "codepoint": "F75B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "1CAFE56B-5979-4A5E-AD44-DE49290B94C9",
+        "baseIconId": "1CAFE56B-5979-4A5E-AD44-DE49290B94C9",
+        "name": "table",
+        "codepoint": "F4EB",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A91CA258-527C-4760-AE9B-D1AECB4E73CF",
+        "baseIconId": "A91CA258-527C-4760-AE9B-D1AECB4E73CF",
+        "name": "taco",
+        "codepoint": "F761",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5AAE6AF6-9B35-4937-B02E-225C99E48E0A",
+        "baseIconId": "5AAE6AF6-9B35-4937-B02E-225C99E48E0A",
+        "name": "tag",
+        "codepoint": "F4F9",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "63A08512-F392-42A6-9F41-4352C6B4DF20",
+        "baseIconId": "63A08512-F392-42A6-9F41-4352C6B4DF20",
+        "name": "television",
+        "codepoint": "F502",
+        "aliases": [
+            "tv"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "4673D8AF-1F1B-4E46-8F73-CE39C6D9CB33",
+        "baseIconId": "4673D8AF-1F1B-4E46-8F73-CE39C6D9CB33",
+        "name": "thumb-down",
+        "codepoint": "F511",
+        "aliases": [
+            "dislike"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "13E5C725-305C-4690-9312-05568AAE547C",
+        "baseIconId": "13E5C725-305C-4690-9312-05568AAE547C",
+        "name": "thumb-up",
+        "codepoint": "F513",
+        "aliases": [
+            "like"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "6BFF422E-8395-4ABC-833A-8C0877251B3F",
+        "baseIconId": "6BFF422E-8395-4ABC-833A-8C0877251B3F",
+        "name": "thumbs-up-down",
+        "codepoint": "F515",
+        "aliases": [
+            "like-dislike"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "41FB9628-C597-4276-832A-802473F6A8C8",
+        "baseIconId": "41FB9628-C597-4276-832A-802473F6A8C8",
+        "name": "tooltip",
+        "codepoint": "F523",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5183952A-68D2-4177-B205-C3B9937AECE2",
+        "baseIconId": "5183952A-68D2-4177-B205-C3B9937AECE2",
+        "name": "tooltip-text",
+        "codepoint": "F528",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "D73B56BB-1F69-41D4-88D9-3CFCCED2D6D5",
+        "baseIconId": "D73B56BB-1F69-41D4-88D9-3CFCCED2D6D5",
+        "name": "triangle",
+        "codepoint": "F536",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "28B14D18-EE0A-4399-9554-4273BF3DE308",
+        "baseIconId": "28B14D18-EE0A-4399-9554-4273BF3DE308",
+        "name": "trophy",
+        "codepoint": "F538",
+        "aliases": [
+            "achievement"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C9365D5E-1E7F-44B1-A7D1-E51F964FBB1F",
+        "baseIconId": null,
+        "name": "truck",
+        "codepoint": "FCC7",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "7D634B1A-0E0B-4E7C-83B4-1CD16A05BB5E",
+        "baseIconId": "7D634B1A-0E0B-4E7C-83B4-1CD16A05BB5E",
+        "name": "undo-variant",
+        "codepoint": "F54D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9B50C774-FEC6-41FD-B507-B427083F33FC",
+        "baseIconId": "9B50C774-FEC6-41FD-B507-B427083F33FC",
+        "name": "unfold-less-horizontal",
+        "codepoint": "F54E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "5B9ED200-D920-42B0-9A53-91CFED6DA1B3",
+        "baseIconId": "5B9ED200-D920-42B0-9A53-91CFED6DA1B3",
+        "name": "unfold-less-vertical",
+        "codepoint": "F75F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "FE574134-F4F3-4873-B830-7D8F188A1492",
+        "baseIconId": "FE574134-F4F3-4873-B830-7D8F188A1492",
+        "name": "unfold-more-horizontal",
+        "codepoint": "F54F",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C7C34C94-34F3-439F-99BC-BFD19F6B077B",
+        "baseIconId": "C7C34C94-34F3-439F-99BC-BFD19F6B077B",
+        "name": "unfold-more-vertical",
+        "codepoint": "F760",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "654B4A04-0059-416B-B2DC-1442C8080D8D",
+        "baseIconId": "654B4A04-0059-416B-B2DC-1442C8080D8D",
+        "name": "ungroup",
+        "codepoint": "F550",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B538CCB0-9FA2-4992-BE64-801F616AFE0B",
+        "baseIconId": "B538CCB0-9FA2-4992-BE64-801F616AFE0B",
+        "name": "upload",
+        "codepoint": "F552",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "532B2121-5FA2-40DA-B3B0-E610FB3C99DB",
+        "baseIconId": "532B2121-5FA2-40DA-B3B0-E610FB3C99DB",
+        "name": "vector-arrange-above",
+        "codepoint": "F554",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C642E215-060D-4CFF-A0B7-140D1F21AC4F",
+        "baseIconId": "C642E215-060D-4CFF-A0B7-140D1F21AC4F",
+        "name": "vector-arrange-below",
+        "codepoint": "F555",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "26B26D49-DD2D-49F9-868A-18BBC92C3B24",
+        "baseIconId": "26B26D49-DD2D-49F9-868A-18BBC92C3B24",
+        "name": "vector-combine",
+        "codepoint": "F558",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B5D1F0EA-98DD-4616-A908-126C6A606F4C",
+        "baseIconId": "B5D1F0EA-98DD-4616-A908-126C6A606F4C",
+        "name": "vector-difference",
+        "codepoint": "F55A",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "108AC66F-9617-48CD-B16B-B6B5EFA07695",
+        "baseIconId": "108AC66F-9617-48CD-B16B-B6B5EFA07695",
+        "name": "vector-difference-ab",
+        "codepoint": "F55B",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "489A9AF4-504E-4B92-91AC-DDC7DED44C6E",
+        "baseIconId": "489A9AF4-504E-4B92-91AC-DDC7DED44C6E",
+        "name": "vector-difference-ba",
+        "codepoint": "F55C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "F48273AE-9517-4928-8ACE-8639EA9C1F59",
+        "baseIconId": "F48273AE-9517-4928-8ACE-8639EA9C1F59",
+        "name": "vector-intersection",
+        "codepoint": "F55D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "055CD40E-1F4E-4939-BA97-A8040B35D0F1",
+        "baseIconId": "055CD40E-1F4E-4939-BA97-A8040B35D0F1",
+        "name": "vector-union",
+        "codepoint": "F564",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9084AF3F-5910-45B3-928F-0A108AEF07F9",
+        "baseIconId": "9084AF3F-5910-45B3-928F-0A108AEF07F9",
+        "name": "view-dashboard",
+        "codepoint": "F56E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B62B2FC5-1B61-40FA-9DB5-4FC27BEB4AAC",
+        "baseIconId": "B62B2FC5-1B61-40FA-9DB5-4FC27BEB4AAC",
+        "name": "view-module",
+        "codepoint": "F573",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "A1CDCBBE-FE1A-44D4-A577-51B78B413602",
+        "baseIconId": "A1CDCBBE-FE1A-44D4-A577-51B78B413602",
+        "name": "volume-high",
+        "codepoint": "F57E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "331B01F4-390F-46C9-B053-594DE27E0A3B",
+        "baseIconId": "331B01F4-390F-46C9-B053-594DE27E0A3B",
+        "name": "volume-minus",
+        "codepoint": "F75D",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "9D3A190B-9C81-401B-89DC-F8FBAA50E164",
+        "baseIconId": "9D3A190B-9C81-401B-89DC-F8FBAA50E164",
+        "name": "volume-mute",
+        "codepoint": "F75E",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C80F8992-5E80-4002-8A90-B5CFA69B0E26",
+        "baseIconId": "C80F8992-5E80-4002-8A90-B5CFA69B0E26",
+        "name": "volume-off",
+        "codepoint": "F581",
+        "aliases": [
+            "mute"
+        ],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "C06C19AF-9444-4765-9B10-B894D465566B",
+        "baseIconId": "C06C19AF-9444-4765-9B10-B894D465566B",
+        "name": "volume-plus",
+        "codepoint": "F75C",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [
+            "Audio"
+        ],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "88B22BF2-AA93-4D62-8035-F55D095F48AC",
+        "baseIconId": null,
+        "name": "wallet",
+        "codepoint": "FCC8",
+        "aliases": [],
+        "styles": [],
+        "version": "0.3.50",
+        "deprecated": false,
+        "tags": [],
+        "author": "GreenTurtwig"
+    },
+    {
+        "id": "804F3BE8-4010-424D-A267-7863174B0A2E",
+        "baseIconId": "804F3BE8-4010-424D-A267-7863174B0A2E",
+        "name": "wifi",
+        "codepoint": "F5A9",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    },
+    {
+        "id": "B705B8F9-D6EF-4B52-B2C7-3DED9E87CE1A",
+        "baseIconId": "B705B8F9-D6EF-4B52-B2C7-3DED9E87CE1A",
+        "name": "xml",
+        "codepoint": "F5C0",
+        "aliases": [],
+        "styles": [],
+        "version": "0.2.63",
+        "deprecated": false,
+        "tags": [],
+        "author": "Austin Andrews"
+    }
+]
