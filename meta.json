@@ -329,7 +329,9 @@
         "styles": [],
         "version": "0.3.50",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Sport"
+        ],
         "author": "Michael Irigoyen"
     },
     {
