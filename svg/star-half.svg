@@ -1,5 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 11,6.0593L 9.13781,10.4463L 4.39462,10.8613L 7.99148,13.988L 6.92042,18.6273L 11,16.1761L 11,17.3427L 5.4161,20.6978L 6.88195,14.3485L 1.96057,10.0705L 8.45208,9.50252L 11,3.50001L 11,6.0593 Z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="mdil-star-half" viewBox="0 0 24 24"><path d="M11,6.06L9.14,10.45L4.39,10.86L8,14L6.92,18.63L11,16.18V17.34L5.42,20.7L6.88,14.35L1.96,10.07L8.45,9.5L11,3.5V6.06Z" /></svg>
