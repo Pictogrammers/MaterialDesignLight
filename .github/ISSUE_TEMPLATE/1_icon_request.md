@@ -1,20 +1,29 @@
----
-name: Request an Icon 💡
-about: Request an icon for the team to add
-title: ''
-labels: Icon Request
-
----
-
-I have:
-
-- [ ] [Searched all issues](https://github.com/Templarian/MaterialDesignLight/issues) to make sure there isn't a request for this icon.
-- [ ] Only requested a single icon (or a few near-identical ones) in this issue. 
-
-## Usage
-
-Provide some context of how your icon could be used.
-
-## Examples
-
-Include any example images so we know what the icon should look like.
+name: Request a New Icon 💡
+description: Request a new icon to be added.
+labels: [Icon Request]
+body:
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Before submitting a new icon request, please confirm the following:"
+      options:
+        - label: I have [searched all issues](https://github.com/Templarian/MaterialDesignLight/issues) to make sure there isn't a request for this icon.
+          required: true
+        - label: I have [searched the current library](https://pictogrammers.com/library/mdil) to make sure the icon doesn't already exist.
+          required: true
+        - label: I only intend to request a single icon (or a few near-identical ones) in this issue.
+          required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: What would you use this icon for?
+      description: Please provide some context of how this new icon could be used.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Give us an example of what this icon might look like.
+      description: Please upload or provide links to images that exemplify this request. This gives us a better understanding of what you are requesting.
+    validations:
+      required: true
