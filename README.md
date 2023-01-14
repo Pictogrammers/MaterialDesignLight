@@ -1,10 +1,10 @@
 # Material Design Icons Light
 
-Material Design Icons Light is a subset of the [Material Design Icons](https://materialdesignicons.com) icon set.
+Material Design Icons Light is a subset of the [Material Design Icons](https://pictogrammers.com/library/mdi) icon set.
 
 ## Icons
 
-View at [Material Design Icons](http://materialdesignicons.com/) (coming soon).
+View the [Material Design Icons Light](https://pictogrammers.com/library/mdil) set.
 
 |                         | NPM                           | Dist Repo |
 |-------------------------|-------------------------------|-----------|
@@ -13,7 +13,7 @@ View at [Material Design Icons](http://materialdesignicons.com/) (coming soon).
 | ReactJS                 | `npm install @mdi/react`      | [MaterialDesign-React](https://github.com/Templarian/MaterialDesign-React) |
 | SVG / Meta.json         | `npm install @mdi/light-svg`  | [MaterialDesignLight-SVG](https://github.com/Templarian/MaterialDesignLight-SVG)     |
 
-[![MDI Light](http://i.imgur.com/wZcQzBX.png)](https://materialdesignicons.com/)
+[![MDI Light](http://i.imgur.com/wZcQzBX.png)](https://pictogrammers.com/library/mdil)
 
 ## Work in Progress
 
