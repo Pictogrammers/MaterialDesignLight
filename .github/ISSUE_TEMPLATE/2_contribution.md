@@ -6,10 +6,6 @@ labels: Icon Request, Contribution
 
 ---
 
-<!--
-We are no longer accepting brand icons. Learn more: http://dev.materialdesignicons.com/roadmap/brand-icons
--->
-
 I have:
 
 - [ ] Searched open issues to make sure there isn't a request for this icon.
@@ -17,7 +13,7 @@ I have:
 
 ## Preview
 
-Paste a preview of your icon here. You can generate one using our [preview generator](http://dev.materialdesignicons.com/contribute/github).
+Paste a preview of your icon here. You can generate one using our [preview generator](https://pictogrammers.com/tools/github/).
 
 ## Zip Download
 
