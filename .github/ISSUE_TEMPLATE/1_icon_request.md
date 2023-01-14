@@ -6,10 +6,6 @@ labels: Icon Request
 
 ---
 
-<!--
-We are no longer accepting brand icons. Learn more: http://dev.materialdesignicons.com/roadmap/brand-icons
--->
-
 I have:
 
 - [ ] [Searched all issues](https://github.com/Templarian/MaterialDesignLight/issues) to make sure there isn't a request for this icon.
