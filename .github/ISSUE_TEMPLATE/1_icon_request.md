@@ -7,7 +7,7 @@ body:
     attributes:
       label: "Before submitting a new icon request, please confirm the following:"
       options:
-        - label: I have [searched all issues](https://github.com/Templarian/MaterialDesignLight/issues) to make sure there isn't a request for this icon.
+        - label: I have [searched all issues](https://github.com/Templarian/MaterialDesignLight/issues?q=is%3Aissue) to make sure there isn't a request for this icon.
           required: true
         - label: I have [searched the current library](https://pictogrammers.com/library/mdil) to make sure the icon doesn't already exist.
           required: true
