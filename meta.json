@@ -2752,7 +2752,9 @@
         "styles": [],
         "version": "0.2.63",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Math"
+        ],
         "author": "Austin Andrews"
     },
     {
