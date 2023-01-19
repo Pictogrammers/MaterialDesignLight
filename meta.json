@@ -656,7 +656,9 @@
         "styles": [],
         "version": "0.2.63",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Shopping"
+        ],
         "author": "Austin Andrews"
     },
     {
