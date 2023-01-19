@@ -2388,7 +2388,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Lock"
+            "Lock",
+            "Home Automation"
         ],
         "author": "Austin Andrews"
     },
