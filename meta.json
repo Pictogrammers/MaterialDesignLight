@@ -998,7 +998,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Alert \/ Error"
+            "Alert \/ Error",
+            "Notification"
         ],
         "author": "Austin Andrews"
     },
