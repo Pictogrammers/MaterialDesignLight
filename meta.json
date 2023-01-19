@@ -1106,7 +1106,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Shopping"
+            "Shopping",
+            "Banking"
         ],
         "author": "Austin Andrews"
     },
