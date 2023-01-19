@@ -3558,7 +3558,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Arrange"
+            "Arrange",
+            "Vector"
         ],
         "author": "Austin Andrews"
     },
