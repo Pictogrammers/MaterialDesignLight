@@ -385,7 +385,9 @@
         "styles": [],
         "version": "0.3.50",
         "deprecated": false,
-        "tags": [],
+        "tags": [
+            "Notification"
+        ],
         "author": "GreenTurtwig"
     },
     {
