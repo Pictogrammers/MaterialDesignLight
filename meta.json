@@ -1160,7 +1160,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Banking"
+            "Banking",
+            "Currency"
         ],
         "author": "Austin Andrews"
     },
