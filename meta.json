@@ -3601,7 +3601,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Audio"
+            "Audio",
+            "Music"
         ],
         "author": "Austin Andrews"
     },
