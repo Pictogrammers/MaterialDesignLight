@@ -2162,7 +2162,8 @@
         "version": "0.2.63",
         "deprecated": false,
         "tags": [
-            "Holiday"
+            "Holiday",
+            "Shape"
         ],
         "author": "Austin Andrews"
     },
